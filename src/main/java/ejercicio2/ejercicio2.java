@@ -3,7 +3,7 @@ package ejercicio2;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ejercicio2 {
+public class ejercicio2 {
 
     public String getNextDate(int day, String month, int year, int hour, int min, int sec) {
         String msg;
